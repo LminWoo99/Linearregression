@@ -1,7 +1,7 @@
 # Logistic-regression
 키(Height)와 손 한뼘의 길이(HandSpan) 변수를 이용하여 남성인지 여성인지 분류하는 로지스틱 회귀 분석
 <h2>데이터</h2>
-[handspan.txt](https://github.com/LminWoo99/logistic-regression/files/11926049/handspan.txt)
+[handspan.txt](https://github.com/LminWoo99/logistic-regression/blob/main/handspan.txt)
 
 <h2>진행 과정</h2>
   1. 데이터 전처리 여부 확인<br>
